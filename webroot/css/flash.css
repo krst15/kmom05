@@ -1,0 +1,22 @@
+.error{
+    background-color: crimson;
+    color:black;
+}
+
+.success{
+    background-color: forestgreen;
+    color: white;
+}
+
+.notice{
+    background-color: antiquewhite;
+    color: black;
+}
+
+.warning{
+    background-color: darkred;
+    color:aliceblue;
+}
+
+#flashMessage{
+}
